@@ -1,6 +1,7 @@
 # Documentação de Instalação do Projeto Django
 
 Este documento fornece instruções para instalar e executar o projeto Django usando Docker e também sem Docker.
+Projeto foi codado no MacOS, Utilizando Postgres, docker, dockercompose e desenvolvido na IDE PyCharm.
 
 ## Instruções de Instalação e Configuração
 
